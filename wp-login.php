@@ -9,7 +9,7 @@
             /* <![CDATA[ */
             var rcewpp = {
                 "ajax_url":"/wp-admin/admin-ajax.php",
-                "nonce": "8ce7b1c4fb",
+                "nonce": "219016ed35",
                 "home_url": "/",
                 "settings_icon": '/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": '/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
@@ -111,7 +111,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="/wp-includes/js/wp-util.min.js?ver=5.9" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"c2ddd125ef"};
+var userProfileL10n = {"user_id":"0","nonce":"08a2f86793"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
